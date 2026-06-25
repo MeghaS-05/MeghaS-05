@@ -1,9 +1,6 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, My name is Megha Sah
 ==================================================================================================================================
 
-Software Developer
-------------------
-
 I'm an aspiring Software Engineer passionate about backend development, enterprise applications, and AI integration. I have experience with Java, Python, databases, and APIs, and I'm currently learning Spring and cloud technologies to build a strong foundation in scalable software systems. I'm open to opportunities as a Software Engineer, Backend Engineer, Java Full Stack Developer, or Forward Deployed Engineer, and I enjoy exploring how enterprise applications are designed, deployed, and operated at scale while continuously learning and building with modern technologies.
 
 * 🌍  I'm based in Mumbai
